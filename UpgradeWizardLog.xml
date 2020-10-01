@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="_UpgradeWizard_Files\UpgradeWizardLog.xslt"?>
+<log>
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\VB.WpfDemo.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\app.config" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="VB.WpfDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\VB.WpfDemo.vbproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\VB.ReportLibrary.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\app.config" />
+  <event action="Analyze" type="Success" name="BarcodesReport.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Barcodes\BarcodesReport.resx" />
+  <event action="Analyze" type="Success" name="PopulationDensity.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Choropleth\PopulationDensity.resx" />
+  <event action="Analyze" type="Success" name="ProductSales.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Crosstab\ProductSales.resx" />
+  <event action="Analyze" type="Success" name="CryptoCurrencies.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\CryptoCurrencies\CryptoCurrencies.resx" />
+  <event action="Analyze" type="Success" name="CryptoCurrencyInfo.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\CryptoCurrencies\CryptoCurrencyInfo.resx" />
+  <event action="Analyze" type="Success" name="CryptoCurrencyRawData.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\CryptoCurrencies\CryptoCurrencyRawData.resx" />
+  <event action="Analyze" type="Success" name="DashBoard.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Dashboard\DashBoard.resx" />
+  <event action="Analyze" type="Success" name="SalesByRegionDashboard.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Dashboard\SalesByRegionDashboard.resx" />
+  <event action="Analyze" type="Success" name="ListBoundReport.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\DataBinding\ListBoundReport.resx" />
+  <event action="Analyze" type="Success" name="EmployeeSalesSummary.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\EmployeeSales\EmployeeSalesSummary.resx" />
+  <event action="Analyze" type="Success" name="Horizon.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Horizon\Horizon.resx" />
+  <event action="Analyze" type="Success" name="Horizon1.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Horizon\Horizon1.resx" />
+  <event action="Analyze" type="Success" name="Horizon2.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Horizon\Horizon2.resx" />
+  <event action="Analyze" type="Success" name="Invoice.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Invoice\Invoice.resx" />
+  <event action="Analyze" type="Success" name="SalesOrderDetails.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Invoice\SalesOrderDetails.resx" />
+  <event action="Analyze" type="Success" name="OlympicMedalsByNationalTeams.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Map\OlympicMedalsByNationalTeams.resx" />
+  <event action="Analyze" type="Success" name="ProductTag.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\Multicolumn\ProductTag.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="ProductCatalog.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\ProductCatalog\ProductCatalog.resx" />
+  <event action="Analyze" type="Success" name="ProductLineSales.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\ProductLineSales\ProductLineSales.resx" />
+  <event action="Analyze" type="Success" name="ReportBookToc.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\ReportBook\ReportBookToc.resx" />
+  <event action="Analyze" type="Success" name="ReportCatalog.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\ReportCatalog\ReportCatalog.resx" />
+  <event action="Analyze" type="Success" name="VB.ReportLibrary" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\VB.ReportLibrary.vbproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\VB.Html5Demo.vbproj" />
+  <event action="Analyze" type="Success" name="Horizon.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Horizon\Horizon.resx" />
+  <event action="Analyze" type="Success" name="Horizon1.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Horizon\Horizon1.resx" />
+  <event action="Analyze" type="Success" name="Horizon2.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Horizon\Horizon2.resx" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\index.html" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\index.html" />
+  <event action="Analyze" type="Success" name="index.html" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\index.html" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="VB.Html5Demo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\VB.Html5Demo.vbproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\VB.WebFormsDemo.vbproj" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Default.aspx" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Default.aspx" />
+  <event action="Analyze" type="Success" name="Default.aspx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Default.aspx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="VB.WebFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\VB.WebFormsDemo.vbproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\VB.WinFormsDemo.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="app.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\app.config" />
+  <event action="Analyze" type="Success" name="MainForm.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\MainForm.resx" />
+  <event action="Analyze" type="Success" name="Resources.resx" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\My Project\Resources.resx" />
+  <event action="Analyze" type="Success" name="VB.WinFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\VB.WinFormsDemo.vbproj" />
+  <event>Get project references.</event>
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\VB.MvcDemo.vbproj" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" name="packages.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\packages.config" />
+  <event action="Analyze" type="Success" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\_ViewStart.vbhtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\_ViewStart.vbhtml" />
+  <event action="Analyze" type="Success" name="_ViewStart.vbhtml" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\_ViewStart.vbhtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Home\Index.vbhtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Home\Index.vbhtml" />
+  <event action="Analyze" type="Success" name="Index.vbhtml" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Home\Index.vbhtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\_Layout.vbhtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\_Layout.vbhtml" />
+  <event action="Analyze" type="Success" name="_Layout.vbhtml" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\_Layout.vbhtml" />
+  <event action="Analyze" type="Success" name="Register Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\Error.vbhtml" />
+  <event action="Analyze" type="Success" name="Assembly Directives" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\Error.vbhtml" />
+  <event action="Analyze" type="Success" name="Error.vbhtml" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Shared\Error.vbhtml" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Web.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Web.Debug.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Debug.config" />
+  <event action="Analyze" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Http Handlers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Handlers (IIS7+)" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Config Sections" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Render Extensions" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Session State Providers" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="Web.Release.config" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Web.Release.config" />
+  <event action="Analyze" type="Success" name="VB.MvcDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\VB.MvcDemo.vbproj" />
+  <event action="Analyze" type="Success" name="VB.ReportExamples.VS2019" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\VB.ReportExamples.VS2019.sln" />
+  <event action="Analyze" type="Success" name="telerikReportViewer-14.2.20.916.min.js" path="telerikReportViewer-14.2.20.916.min.js" />
+  <event action="Backup" type="Success" name="VB.WpfDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\VB.WpfDemo.vbproj" />
+  <event action="Backup" type="Success" name="VB.ReportLibrary" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\VB.ReportLibrary.vbproj" />
+  <event action="Backup" type="Success" name="VB.Html5Demo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\VB.Html5Demo.vbproj" />
+  <event action="Backup" type="Success" name="VB.WebFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\VB.WebFormsDemo.vbproj" />
+  <event action="Backup" type="Success" name="VB.WinFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\VB.WinFormsDemo.vbproj" />
+  <event action="Backup" type="Success" name="VB.MvcDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\VB.MvcDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\VB.WpfDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.WpfDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WpfDemo\VB.WpfDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\VB.ReportLibrary.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.ReportLibrary" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\ReportLibrary\VB.ReportLibrary.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\VB.Html5Demo.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.Html5Demo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\Html5Demo\VB.Html5Demo.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\VB.WebFormsDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.WebFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WebFormsDemo\VB.WebFormsDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\VB.WinFormsDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.WinFormsDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\WinFormsDemo\VB.WinFormsDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="Assembly References" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\VB.MvcDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="telerikReportViewer-14.2.20.916.min.js" path="telerikReportViewer-14.2.20.916.min.js" />
+  <event action="Upgrade" type="Success" name="Index.vbhtml" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\Views\Home\Index.vbhtml" />
+  <event action="Upgrade" type="Success" name="VB.MvcDemo" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\MvcDemo\VB.MvcDemo.vbproj" />
+  <event action="Upgrade" type="Success" name="VB.ReportExamples.VS2019" path="E:\Program Files (x86)\Progress\Telerik Reporting R3 2020\Examples\VB\VB.ReportExamples.VS2019.sln" />
+</log>
