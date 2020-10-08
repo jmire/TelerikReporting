@@ -117,7 +117,7 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <data name="Azure.SelectCommand" xml:space="preserve">
+  <data name="SqlDataSourceHorizon2.SelectCommand" xml:space="preserve">
     <value>SELECT        dat_protect_layer.hash AS protect_layer_hash, dat_protect_layer.scope AS protect_layer_scope, dat_protect_layer.object_id AS protect_layer_ID, PL_to_Inputs.type_id AS pl_to_inputs_type_id, 
                          PL_to_Inputs.field_id AS pl_to_inputs_field_id, PL_to_Inputs.subfield_id AS pl_to_inputs_subfield_id, PL_to_Inputs.relation_hash AS pl_to_inputs_type_relation_hash, dat_input.hash AS input_hash, 
                          dat_input.object_id AS input_object_id, dat_input.input_name, dat_input.input_voting, dat_input.time_delay, dat_input.trip_setpoint, dat_input.alarm_setpoint, dat_input.input_range, dat_input.deviation_alarm

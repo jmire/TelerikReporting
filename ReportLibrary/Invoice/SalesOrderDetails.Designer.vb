@@ -48,31 +48,31 @@ Partial Class SalesOrderDetails
         '
         'labelsGroupFooter
         '
-        Me.labelsGroupFooter.Height = Telerik.Reporting.Drawing.Unit.Inch(0.47999998927116394R)
+        Me.labelsGroupFooter.Height = Telerik.Reporting.Drawing.Unit.Inch(0.48R)
         Me.labelsGroupFooter.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.textBox1, Me.textBox2})
         Me.labelsGroupFooter.Name = "labelsGroupFooter"
         '
         'textBox1
         '
-        Me.textBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.000039418537198798731R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.textBox1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.textBox1.Name = "textBox1"
-        Me.textBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(6.1228375434875488R), Telerik.Reporting.Drawing.Unit.Inch(0.47996059060096741R))
+        Me.textBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(6.123R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.textBox1.StyleName = "Total"
         Me.textBox1.Value = "Total"
         '
         'textBox2
         '
         Me.textBox2.Format = "{0:C2}"
-        Me.textBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.1229557991027832R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.textBox2.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.123R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.textBox2.Name = "textBox2"
-        Me.textBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.9669651985168457R), Telerik.Reporting.Drawing.Unit.Inch(0.47996059060096741R))
+        Me.textBox2.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.967R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.textBox2.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
         Me.textBox2.StyleName = "Total"
         Me.textBox2.Value = "=Sum(Fields.LineTotal)"
         '
         'labelsGroupHeader
         '
-        Me.labelsGroupHeader.Height = Telerik.Reporting.Drawing.Unit.Inch(0.47999998927116394R)
+        Me.labelsGroupHeader.Height = Telerik.Reporting.Drawing.Unit.Inch(0.48R)
         Me.labelsGroupHeader.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.panel1})
         Me.labelsGroupHeader.Name = "labelsGroupHeader"
         Me.labelsGroupHeader.PrintOnEveryPage = True
@@ -80,18 +80,18 @@ Partial Class SalesOrderDetails
         'panel1
         '
         Me.panel1.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.productNumberCaptionTextBox, Me.nameCaptionTextBox, Me.orderQtyCaptionTextBox, Me.unitPriceCaptionTextBox, Me.lineTotalCaptionTextBox})
-        Me.panel1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.panel1.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.panel1.Name = "panel1"
-        Me.panel1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(8.089961051940918R), Telerik.Reporting.Drawing.Unit.Inch(0.47999998927116394R))
+        Me.panel1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(8.09R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         '
         'productNumberCaptionTextBox
         '
         SortingAction1.SortingExpression = "= Fields.ProductNumber"
         SortingAction1.Targets.AddRange(New Telerik.Reporting.IActionTarget() {Me})
         Me.productNumberCaptionTextBox.Action = SortingAction1
-        Me.productNumberCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.000039378803194267675R))
+        Me.productNumberCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.productNumberCaptionTextBox.Name = "productNumberCaptionTextBox"
-        Me.productNumberCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.4000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.47988176345825195R))
+        Me.productNumberCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.4R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.productNumberCaptionTextBox.Style.BorderStyle.Left = Telerik.Reporting.Drawing.BorderType.None
         Me.productNumberCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Left
         Me.productNumberCaptionTextBox.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
@@ -103,9 +103,9 @@ Partial Class SalesOrderDetails
         SortingAction2.SortingExpression = "= Fields.Name"
         SortingAction2.Targets.AddRange(New Telerik.Reporting.IActionTarget() {Me})
         Me.nameCaptionTextBox.Action = SortingAction2
-        Me.nameCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.4000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.nameCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.4R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.nameCaptionTextBox.Name = "nameCaptionTextBox"
-        Me.nameCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(3.4999213218688965R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.nameCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(3.5R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.nameCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Left
         Me.nameCaptionTextBox.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         Me.nameCaptionTextBox.StyleName = "Caption"
@@ -116,9 +116,9 @@ Partial Class SalesOrderDetails
         SortingAction3.SortingExpression = "= Fields.OrderQty"
         SortingAction3.Targets.AddRange(New Telerik.Reporting.IActionTarget() {Me})
         Me.orderQtyCaptionTextBox.Action = SortingAction3
-        Me.orderQtyCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.9000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(-0.000000012417634032146907R))
+        Me.orderQtyCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.9R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.orderQtyCaptionTextBox.Name = "orderQtyCaptionTextBox"
-        Me.orderQtyCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.9999997615814209R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.orderQtyCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.orderQtyCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Left
         Me.orderQtyCaptionTextBox.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         Me.orderQtyCaptionTextBox.StyleName = "Caption"
@@ -129,9 +129,9 @@ Partial Class SalesOrderDetails
         SortingAction4.SortingExpression = "= Fields.UnitPrice"
         SortingAction4.Targets.AddRange(New Telerik.Reporting.IActionTarget() {Me})
         Me.unitPriceCaptionTextBox.Action = SortingAction4
-        Me.unitPriceCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.9000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.unitPriceCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.9R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.unitPriceCaptionTextBox.Name = "unitPriceCaptionTextBox"
-        Me.unitPriceCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0999211072921753R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.unitPriceCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.1R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.unitPriceCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Left
         Me.unitPriceCaptionTextBox.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         Me.unitPriceCaptionTextBox.StyleName = "Caption"
@@ -142,9 +142,9 @@ Partial Class SalesOrderDetails
         SortingAction5.SortingExpression = "= Fields.LineTotal"
         SortingAction5.Targets.AddRange(New Telerik.Reporting.IActionTarget() {Me})
         Me.lineTotalCaptionTextBox.Action = SortingAction5
-        Me.lineTotalCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(6.9999604225158691R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.lineTotalCaptionTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.lineTotalCaptionTextBox.Name = "lineTotalCaptionTextBox"
-        Me.lineTotalCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0899604558944702R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.lineTotalCaptionTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.09R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.lineTotalCaptionTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Left
         Me.lineTotalCaptionTextBox.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         Me.lineTotalCaptionTextBox.StyleName = "Caption"
@@ -152,32 +152,32 @@ Partial Class SalesOrderDetails
         '
         'detail
         '
-        Me.detail.Height = Telerik.Reporting.Drawing.Unit.Inch(0.47999998927116394R)
+        Me.detail.Height = Telerik.Reporting.Drawing.Unit.Inch(0.48R)
         Me.detail.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.productNumberDataTextBox, Me.nameDataTextBox, Me.orderQtyDataTextBox, Me.unitPriceDataTextBox, Me.lineTotalDataTextBox})
         Me.detail.Name = "detail"
         '
         'productNumberDataTextBox
         '
-        Me.productNumberDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.productNumberDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.productNumberDataTextBox.Name = "productNumberDataTextBox"
-        Me.productNumberDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.4000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.productNumberDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.4R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.productNumberDataTextBox.Style.BorderStyle.Left = Telerik.Reporting.Drawing.BorderType.None
         Me.productNumberDataTextBox.StyleName = "Data"
         Me.productNumberDataTextBox.Value = "=Fields.ProductNumber"
         '
         'nameDataTextBox
         '
-        Me.nameDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.4000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.nameDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(1.4R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.nameDataTextBox.Name = "nameDataTextBox"
-        Me.nameDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(3.4999206066131592R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.nameDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(3.5R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.nameDataTextBox.StyleName = "Data"
         Me.nameDataTextBox.Value = "=Fields.Name"
         '
         'orderQtyDataTextBox
         '
-        Me.orderQtyDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.9000401496887207R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.orderQtyDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(4.9R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.orderQtyDataTextBox.Name = "orderQtyDataTextBox"
-        Me.orderQtyDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(0.99996018409729R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.orderQtyDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.orderQtyDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
         Me.orderQtyDataTextBox.StyleName = "Data"
         Me.orderQtyDataTextBox.Value = "=Fields.OrderQty"
@@ -185,9 +185,9 @@ Partial Class SalesOrderDetails
         'unitPriceDataTextBox
         '
         Me.unitPriceDataTextBox.Format = "{0:C2}"
-        Me.unitPriceDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.9000000953674316R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.unitPriceDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(5.9R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.unitPriceDataTextBox.Name = "unitPriceDataTextBox"
-        Me.unitPriceDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0999212265014648R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.unitPriceDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.1R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.unitPriceDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
         Me.unitPriceDataTextBox.StyleName = "Data"
         Me.unitPriceDataTextBox.Value = "=Fields.UnitPrice"
@@ -195,9 +195,9 @@ Partial Class SalesOrderDetails
         'lineTotalDataTextBox
         '
         Me.lineTotalDataTextBox.Format = "{0:C2}"
-        Me.lineTotalDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.lineTotalDataTextBox.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(7.0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.lineTotalDataTextBox.Name = "lineTotalDataTextBox"
-        Me.lineTotalDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.0899215936660767R), Telerik.Reporting.Drawing.Unit.Inch(0.47992119193077087R))
+        Me.lineTotalDataTextBox.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(1.09R), Telerik.Reporting.Drawing.Unit.Inch(0.48R))
         Me.lineTotalDataTextBox.Style.TextAlign = Telerik.Reporting.Drawing.HorizontalAlign.Right
         Me.lineTotalDataTextBox.StyleName = "Data"
         Me.lineTotalDataTextBox.Value = "=Fields.LineTotal"
@@ -206,7 +206,7 @@ Partial Class SalesOrderDetails
         '
         Me.sqlDataSource1.ConnectionString = "My.MySettings.TelerikConnectionString"
         Me.sqlDataSource1.Name = "sqlDataSource1"
-        Me.sqlDataSource1.Parameters.AddRange(New Telerik.Reporting.SqlDataSourceParameter() {New Telerik.Reporting.SqlDataSourceParameter("@SalesOrderID", System.Data.DbType.Int32, "=Parameters.SaledOrderID.Value")})
+        Me.sqlDataSource1.Parameters.Add(New Telerik.Reporting.SqlDataSourceParameter("@SalesOrderID", System.Data.DbType.Int32, "=Parameters.SaledOrderID.Value"))
         Me.sqlDataSource1.SelectCommand = resources.GetString("sqlDataSource1.SelectCommand")
         '
         'reportHeaderSection1
@@ -217,9 +217,9 @@ Partial Class SalesOrderDetails
         '
         'textBox3
         '
-        Me.textBox3.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.000039339065551757813R))
+        Me.textBox3.Location = New Telerik.Reporting.Drawing.PointU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.textBox3.Name = "textBox3"
-        Me.textBox3.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(8.089961051940918R), Telerik.Reporting.Drawing.Unit.Inch(0.49996066093444824R))
+        Me.textBox3.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(8.09R), Telerik.Reporting.Drawing.Unit.Inch(0.5R))
         Me.textBox3.StyleName = "Title"
         Me.textBox3.Value = "Order Details"
         '
@@ -234,7 +234,7 @@ Partial Class SalesOrderDetails
         Me.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.labelsGroupHeader, Me.labelsGroupFooter, Me.detail, Me.reportHeaderSection1})
         Me.Name = "SalesOrderDetails"
         Me.PageSettings.Landscape = False
-        Me.PageSettings.Margins = New Telerik.Reporting.Drawing.MarginsU(Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R), Telerik.Reporting.Drawing.Unit.Inch(0.0R))
+        Me.PageSettings.Margins = New Telerik.Reporting.Drawing.MarginsU(Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R), Telerik.Reporting.Drawing.Unit.Inch(0R))
         Me.PageSettings.PaperKind = System.Drawing.Printing.PaperKind.Letter
         ReportParameter1.Name = "SaledOrderID"
         ReportParameter1.Value = "=43860"
@@ -249,7 +249,7 @@ Partial Class SalesOrderDetails
         StyleRule2.Style.Font.Bold = True
         StyleRule2.Style.Font.Name = "Segoe UI Light"
         StyleRule2.Style.Font.Size = Telerik.Reporting.Drawing.Unit.Point(16.0R)
-        StyleRule2.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.0R)
+        StyleRule2.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0R)
         StyleRule2.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Middle
         StyleRule3.Selectors.AddRange(New Telerik.Reporting.Drawing.ISelector() {New Telerik.Reporting.Drawing.StyleSelector("Caption")})
         StyleRule3.Style.BorderColor.Default = System.Drawing.Color.FromArgb(CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer))
@@ -258,9 +258,9 @@ Partial Class SalesOrderDetails
         StyleRule3.Style.Color = System.Drawing.Color.FromArgb(CType(CType(177, Byte), Integer), CType(CType(161, Byte), Integer), CType(CType(82, Byte), Integer))
         StyleRule3.Style.Font.Name = "Segoe UI"
         StyleRule3.Style.Font.Size = Telerik.Reporting.Drawing.Unit.Point(10.0R)
-        StyleRule3.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.079999998211860657R)
-        StyleRule3.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
-        StyleRule3.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
+        StyleRule3.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.08R)
+        StyleRule3.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
+        StyleRule3.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
         StyleRule3.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Bottom
         StyleRule4.Selectors.AddRange(New Telerik.Reporting.Drawing.ISelector() {New Telerik.Reporting.Drawing.StyleSelector("Data")})
         StyleRule4.Style.BorderColor.Default = System.Drawing.Color.FromArgb(CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer), CType(CType(230, Byte), Integer))
@@ -269,9 +269,9 @@ Partial Class SalesOrderDetails
         StyleRule4.Style.BorderStyle.Top = Telerik.Reporting.Drawing.BorderType.Solid
         StyleRule4.Style.Font.Name = "Segoe UI"
         StyleRule4.Style.Font.Size = Telerik.Reporting.Drawing.Unit.Point(10.0R)
-        StyleRule4.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.079999998211860657R)
-        StyleRule4.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
-        StyleRule4.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
+        StyleRule4.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.08R)
+        StyleRule4.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
+        StyleRule4.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
         StyleRule4.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Bottom
         StyleRule5.Selectors.AddRange(New Telerik.Reporting.Drawing.ISelector() {New Telerik.Reporting.Drawing.StyleSelector("Total")})
         StyleRule5.Style.BorderStyle.Bottom = Telerik.Reporting.Drawing.BorderType.Solid
@@ -281,13 +281,13 @@ Partial Class SalesOrderDetails
         StyleRule5.Style.Font.Bold = True
         StyleRule5.Style.Font.Name = "Segoe UI"
         StyleRule5.Style.Font.Size = Telerik.Reporting.Drawing.Unit.Point(10.0R)
-        StyleRule5.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.079999998211860657R)
-        StyleRule5.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
-        StyleRule5.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.10000000149011612R)
-        StyleRule5.Style.Padding.Top = Telerik.Reporting.Drawing.Unit.Inch(0.0R)
+        StyleRule5.Style.Padding.Bottom = Telerik.Reporting.Drawing.Unit.Inch(0.08R)
+        StyleRule5.Style.Padding.Left = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
+        StyleRule5.Style.Padding.Right = Telerik.Reporting.Drawing.Unit.Inch(0.1R)
+        StyleRule5.Style.Padding.Top = Telerik.Reporting.Drawing.Unit.Inch(0R)
         StyleRule5.Style.VerticalAlign = Telerik.Reporting.Drawing.VerticalAlign.Bottom
         Me.StyleSheet.AddRange(New Telerik.Reporting.Drawing.StyleRule() {StyleRule1, StyleRule2, StyleRule3, StyleRule4, StyleRule5})
-        Me.Width = Telerik.Reporting.Drawing.Unit.Inch(8.09000015258789R)
+        Me.Width = Telerik.Reporting.Drawing.Unit.Inch(8.09R)
         CType(Me, System.ComponentModel.ISupportInitialize).EndInit()
 
     End Sub

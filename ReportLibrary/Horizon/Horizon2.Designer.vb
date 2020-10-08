@@ -9,7 +9,7 @@ Partial Class Horizon2
         Dim StyleRule2 As Telerik.Reporting.Drawing.StyleRule = New Telerik.Reporting.Drawing.StyleRule()
         Me.detailSection1 = New Telerik.Reporting.DetailSection()
         Me.textBox1 = New Telerik.Reporting.TextBox()
-        Me.Azure = New Telerik.Reporting.SqlDataSource()
+        Me.SqlDataSourceHorizon2 = New Telerik.Reporting.SqlDataSource()
         CType(Me, System.ComponentModel.ISupportInitialize).BeginInit()
         '
         'detailSection1
@@ -25,15 +25,17 @@ Partial Class Horizon2
         Me.textBox1.Size = New Telerik.Reporting.Drawing.SizeU(Telerik.Reporting.Drawing.Unit.Inch(2.7R), Telerik.Reporting.Drawing.Unit.Inch(0.2R))
         Me.textBox1.Value = "= Fields.input_name"
         '
-        'Azure
+        'SqlDataSourceHorizon2
         '
-        Me.Azure.ConnectionString = "My.MySettings.AzureHorizon1"
-        Me.Azure.Name = "Azure"
-        Me.Azure.SelectCommand = resources.GetString("Azure.SelectCommand")
+        Me.SqlDataSourceHorizon2.ConnectionString = "Data Source=tcp:mss-iotag.database.windows.net,1433;Initial Catalog=prod_iotag_ma" &
+    "ster;Persist Security Info=True;User ID=iotag_usr;Password=""M@ng@n2020="""
+        Me.SqlDataSourceHorizon2.Name = "SqlDataSourceHorizon2"
+        Me.SqlDataSourceHorizon2.ProviderName = "System.Data.SqlClient"
+        Me.SqlDataSourceHorizon2.SelectCommand = resources.GetString("SqlDataSourceHorizon2.SelectCommand")
         '
         'Horizon2
         '
-        Me.DataSource = Me.Azure
+        Me.DataSource = Me.SqlDataSourceHorizon2
         Me.Items.AddRange(New Telerik.Reporting.ReportItemBase() {Me.detailSection1})
         Me.Name = "Horizon1"
         Me.PageSettings.ColumnCount = 1
@@ -54,5 +56,5 @@ Partial Class Horizon2
     End Sub
     Friend WithEvents detailSection1 As Telerik.Reporting.DetailSection
     Friend WithEvents textBox1 As Telerik.Reporting.TextBox
-    Friend WithEvents Azure As Telerik.Reporting.SqlDataSource
+    Friend WithEvents SqlDataSourceHorizon2 As Telerik.Reporting.SqlDataSource
 End Class

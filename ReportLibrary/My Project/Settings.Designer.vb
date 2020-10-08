@@ -63,17 +63,6 @@ Namespace My
                 Return CType(Me("TelerikConnectionString"),String)
             End Get
         End Property
-        
-        <Global.System.Configuration.ApplicationScopedSettingAttribute(),  _
-         Global.System.Diagnostics.DebuggerNonUserCodeAttribute(),  _
-         Global.System.Configuration.SpecialSettingAttribute(Global.System.Configuration.SpecialSetting.ConnectionString),  _
-         Global.System.Configuration.DefaultSettingValueAttribute("Data Source=mss-iotag.database.windows.net;Initial Catalog=prod_iotag_master;Pers"& _ 
-            "ist Security Info=True;User ID=iotag_usr;Password=""M@ng@n2020=""")>  _
-        Public ReadOnly Property AzureHorizon1() As String
-            Get
-                Return CType(Me("AzureHorizon1"),String)
-            End Get
-        End Property
     End Class
 End Namespace
 
